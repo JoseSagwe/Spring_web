@@ -1,6 +1,8 @@
 package com.test.model;
 
+
 public class Student {
+
 
     private String f_name;
     private String l_name;
@@ -31,6 +33,7 @@ public class Student {
     public int getAge() {
         return age;
     }
+
 
     public void setAge(int age) {
         this.age = age;
